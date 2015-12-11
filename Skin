@@ -1,0 +1,15 @@
+/**<including all the background's characteristics: grass, wall, path
+ *static within a level
+ * */
+public class Skin {
+	/*read excel
+	 * cx=0;
+	 * for int i=0; i<ending y; i++{
+	 * 	for j=0; j<ending of x; j++{
+	 * 		map[i][j]= new Objet (reading(->grass, wall path..), cx,cy)
+	 * 		cx+10;
+	 * 	}
+	 * cy+10;
+	 * }
+	 */
+}
